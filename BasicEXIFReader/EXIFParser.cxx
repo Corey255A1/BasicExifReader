@@ -1,3 +1,6 @@
+//WunderVision 2020
+//The Emscripting Binding code to allow for the creation
+//of the class in javascript client code
 #include <emscripten/bind.h>
 #include "JPEGEXIFFile.h"
 #include <iostream>
