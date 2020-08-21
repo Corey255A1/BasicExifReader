@@ -1,3 +1,5 @@
+//WunderVision 2020
+//For doing byte swapping and things
 #include <string>
 namespace BitUtils {
 	unsigned short Swap(unsigned short val);

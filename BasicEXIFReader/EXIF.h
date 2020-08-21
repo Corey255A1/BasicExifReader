@@ -1,3 +1,5 @@
+//WunderVision 2020
+//Conainer for all the pieces of the EXIF Portion of the Header
 #include "IFDEntry.h"
 #include "IFDTags.h"
 

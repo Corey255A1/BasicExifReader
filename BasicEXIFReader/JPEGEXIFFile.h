@@ -1,3 +1,5 @@
+//WunderVision 2020
+//Conainer for all the pieces of the JPEG Header
 #include "APP0Marker.h"
 #include "EXIF.h"
 namespace EXIF {

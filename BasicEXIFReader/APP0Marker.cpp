@@ -1,3 +1,5 @@
+//WunderVision 2020
+//Parse the App0 section
 #include "APP0Marker.h"
 #include "BitUtils.h"
 #include <memory>

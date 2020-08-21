@@ -1,3 +1,5 @@
+//WunderVision 2020
+//Container for each IFD Type
 #include <vector>
 #include <memory>
 #include <string>

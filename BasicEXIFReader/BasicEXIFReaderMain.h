@@ -1,8 +1,2 @@
-﻿// CppProj.h : Include file for standard system include files,
-// or project specific include files.
-
+﻿//WunderVision 2020 Notiong going on here...
 #pragma once
-
-
-
-// TODO: Reference additional headers your program requires here.

@@ -1,3 +1,5 @@
+//WunderVision 2020
+
 #include "JPEGEXIFFile.h"
 #include "BitUtils.h"
 #include <fstream>

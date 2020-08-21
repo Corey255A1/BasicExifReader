@@ -1,3 +1,5 @@
+//WunderVision 2020
+//For doing byte swapping and things
 #include "BitUtils.h"
 namespace BitUtils {
 

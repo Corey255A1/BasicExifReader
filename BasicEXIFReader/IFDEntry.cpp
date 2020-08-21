@@ -1,3 +1,4 @@
+//WunderVision 2020
 #include "IFDEntry.h"
 #include "BitUtils.h"
 #include <sstream>

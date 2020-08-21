@@ -1,3 +1,4 @@
+//WunderVision 2020
 #include "EXIF.h"
 #include "BitUtils.h"
 #include <iostream>

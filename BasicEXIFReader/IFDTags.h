@@ -1,3 +1,5 @@
+//WunderVision 2020
+//All of the Tags I could find
 namespace EXIF {
 	enum class IFDTag {
 		NewSubfileType = 254,

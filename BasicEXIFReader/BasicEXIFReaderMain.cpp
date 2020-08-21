@@ -1,6 +1,5 @@
-﻿// CppProj.cpp : Defines the entry point for the application.
-//
-
+﻿//WunderVision 2020
+//Main Entry for the test usage of the EXIF code
 #include "BasicEXIFReaderMain.h"
 #include <iostream>
 #include <memory>
