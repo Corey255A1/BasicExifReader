@@ -14,7 +14,7 @@ async function test(){
             FS.writeFile("uploaded.jpg", new Uint8Array(buffer));
             console.log('Written to MEMFS .. Creating Class');
             var exifData = new Module.EXIF('uploaded.jpg');
-            var orienation = exifData.getTag(274); 
+            var orientation = exifData.getTag(274); 
             var model = exifData.getTag(272);
             var description = exifData.getTag(270);  
             output.innerHTML = "Orienation: " + orienation + "<br>" +
